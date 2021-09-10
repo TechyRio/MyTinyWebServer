@@ -59,4 +59,4 @@
     ip:9006
     ```
 
-摘自：https://github.com/qinguoyi/TinyWebServer#%E6%A1%86%E6%9E%B6
+参考：https://github.com/qinguoyi/TinyWebServer#%E6%A1%86%E6%9E%B6
